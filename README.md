@@ -1,1 +1,1 @@
-# lsrules
+# Custom Little Snitch rules
