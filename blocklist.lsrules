@@ -1,6 +1,6 @@
 {
-  "description" : "Block\/Blacklist domains.\n\nAdvertisement, adware, malware domains.",
-  "name" : "Blocklist",
+  "description" : "MrAnubis' block list.\n\nBlock \/ Blacklist for advertising, adware, and malware hosting domains.\nhttps:\/\/raw.githubusercontent.com\/mranubis\/lsrules\/master\/blocklist.lsrules",
+  "name" : "MrAnubis' Block List",
   "rules" : [
     {
       "action" : "deny",
