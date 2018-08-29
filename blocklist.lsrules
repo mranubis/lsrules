@@ -8,7 +8,10 @@
       "modificationDate" : 1534064970.2135611,
       "owner" : "me",
       "process" : "any",
-      "remote-domains" : "trafficfactory.biz"
+      "remote-domains" : [
+        "trafficfactory.biz",
+        "tsyndicate.com"
+      ]
     }
   ]
 }
