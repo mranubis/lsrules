@@ -6,11 +6,25 @@
       "action" : "deny",
       "creationDate" : 1534064934.0383039,
       "modificationDate" : 1534064970.2135611,
+      "notes" : "Domains specializing in advertising",
       "owner" : "me",
       "process" : "any",
       "remote-domains" : [
         "trafficfactory.biz",
         "tsyndicate.com"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1521337932.5193372,
+      "modificationDate" : 1534637696.2252159,
+      "notes" : "Protection from the dissemination of personal data",
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains" : [
+        "symauth.com",
+        "adobelogin.com",
+        "adobe.com"
       ]
     }
   ]
